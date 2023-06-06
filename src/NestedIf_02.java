@@ -1,6 +1,7 @@
 public class NestedIf_02 {
     public static void main(String[] args) {
-        int age = 5;
+        int age = 15;
+
         if (age >= 10 && age < 20){
             System.out.println("10대");
         }else{
